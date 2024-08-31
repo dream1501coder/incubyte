@@ -1,4 +1,4 @@
-# incubyte
+# Library Management System
 Add Book: Add new books to the library's inventory.
 View Available Books: Display a list of all books in the library along with their current status (Available/Borrowed).
 Borrow Book: Borrow a book from the library if it is available.
